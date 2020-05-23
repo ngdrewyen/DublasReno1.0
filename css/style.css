@@ -2016,7 +2016,7 @@ nav .pager li a:hover {
   margin-right: 20px;
 }
 #contactFormRow {
-  background: url('../images/blog/contactForm.png') no-repeat scroll center bottom;
+  background: url('../images/blog/contactForm.png')no-repeat scroll center bottom #f3d028;
 }
 #contactFormRow .contactFormRow {
   position: relative;
